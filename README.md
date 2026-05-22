@@ -2,7 +2,8 @@
 
 Landing page desenvolvida para estudos de HTML, CSS e GitHub.
 
-## Tecnologias Utilizadas
+## Tecnologia Utilizadas
+## 
 
 - HTML5
 - CSS3
