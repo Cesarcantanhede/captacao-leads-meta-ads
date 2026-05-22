@@ -1,8 +1,8 @@
-# Captação Leads Meta Ads
+# Captação de Leads Meta Ads
 
 Landing page desenvolvida para estudos de HTML, CSS e GitHub.
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -15,4 +15,4 @@ Criar uma landing page moderna para captação de leads.
 
 ## Autor
 
-Cesar Cantanhede
+César Cantanhede
